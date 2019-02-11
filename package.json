@@ -1,0 +1,15 @@
+{
+  "name": "blogToText",
+  "version": "1.0.0",
+  "description": "Convert atom blog to text files",
+  "main": "blogToText.js",
+  "dependencies": {
+    "xml-js": "^1.6.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Hubble",
+  "license": "ISC"
+}
